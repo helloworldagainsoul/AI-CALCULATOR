@@ -22,11 +22,11 @@ The **AI Calculator** transforms traditional math-solving into a futuristic expe
 
 ### Screenshots
 
-![Demo Screenshot](https://github.com/user-attachments/assets/f53f009a-18e2-4d93-bd14-b9e711e2ebf0)
+<img width="647" height="425" alt="image" src="https://github.com/user-attachments/assets/1ab3e7e4-29bf-43d4-96af-cf0a9401cf38" />
+<img width="770" height="492" alt="image" src="https://github.com/user-attachments/assets/15c9ac70-8fbe-4ff6-b4d1-249a096236d3" />
 
-![image](https://github.com/user-attachments/assets/e8c529bf-0799-440d-9181-63b5ef3fd6eb)
-![image](https://github.com/user-attachments/assets/5458b5b1-aa92-4745-b6bc-7cf49280f083)
-![image](https://github.com/user-attachments/assets/d9d11cd1-a032-42b5-842f-822b64ef21a9)
+<img width="879" height="375" alt="image" src="https://github.com/user-attachments/assets/e8135687-866d-4216-9027-1e09678c3278" />
+
 
 ![image](https://github.com/user-attachments/assets/f8bc4cef-0303-4d05-9ad8-226c8ed15d07)
 
@@ -65,4 +65,4 @@ Visit: http://127.0.0.1:8000
 
 ### 📬 Contact
 For queries, suggestions, or collaboration:
-📧 kseth9852@gmail.com
+📧 varahsiddhi1516@gmail.com
